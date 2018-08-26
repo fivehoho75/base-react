@@ -30,6 +30,7 @@
   "author": "The serverless webpack authors (https://github.com/elastic-coders/serverless-webpack)",
   "license": "MIT",
   "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "dotenv": "^6.0.0",
     "global": "^4.3.2",
     "koa": "^2.5.2",
